@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Setanta Plus Ukraine
-http://217.12.200.149/setantaplusukraina/index.m3u8
 #EXTINF:-1,Setanta Qazaqstan
 http://217.12.200.149/rpl1/index.m3u8
-#EXTINF:-1,Setanta Ukraine HD
-http://217.12.200.149/ua3/index.m3u8
-#EXTINF:-1,Setünta Ukraine1 HD
-http://217.12.200.149/ua1/index.m3u8
-#EXTINF:-1,Setanta Ukraine 2  HD
-http://217.12.200.149/ua2/index.m3u8
-#EXTINF:-1,Setanta sports 1 HD
-http://217.12.200.149/setanta1/index.m3u8
-#EXTINF:-1,Setanta2 HD
-http://217.12.200.149/setanta2/index.m3u8
-#EXTINF:-1,match! arena
-http://217.12.200.149/marena/index.m3u8
-#EXTINF:-1,match HD
-http://217.12.200.149/match/index.m3u8
+
